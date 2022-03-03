@@ -19,7 +19,6 @@
 ❁   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)
 
 ##
-
 🔰 **BIG THANKS**
 *   [SpEcHlDe](https://GitHub.com/SpEcHiDe/UniBorg)   DEV - Uniborg 
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA ✌️
