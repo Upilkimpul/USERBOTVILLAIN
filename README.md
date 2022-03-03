@@ -22,4 +22,4 @@
 
 🔰 **BIG THANKS**
 *   [SpEcHlDe](https://GitHub.com/SpEcHiDe/UniBorg)   DEV - Uniborg 
-*   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
+*   DAN TERIMAKASIH KEPADA USERBOT LAINNYA ✌️
